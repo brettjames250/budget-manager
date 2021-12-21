@@ -1,0 +1,3 @@
+993.90
+Milk,$2.50,FOOD
+Cheese,$3.60,FOOD
