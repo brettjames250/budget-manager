@@ -2,7 +2,6 @@ package budget.sorting;
 
 import budget.UserInput;
 import budget.helpers.AlgoHelper;
-import budget.helpers.Constants;
 import budget.helpers.StringUtils;
 import budget.purchase.Purchase;
 import budget.purchase.PurchaseType;
